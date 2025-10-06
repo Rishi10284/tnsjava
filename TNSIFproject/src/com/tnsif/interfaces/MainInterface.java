@@ -9,6 +9,9 @@ public class MainInterface {
 				obj.demo();
 				obj.display();
 				obj.feature();
+				obj.demo();
+				obj.method3();
+				obj.method3();
 
 	}
 
